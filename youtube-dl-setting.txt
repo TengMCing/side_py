@@ -1,0 +1,1 @@
+youtube-dl -i -f bestaudio -o D:/templist/%(title)s.%(ext)s --yes-playlist https://www.youtube.com/playlist?list=PLrpGi-M_MrbaysrXTq3pZfgfwaHDgcpTn
